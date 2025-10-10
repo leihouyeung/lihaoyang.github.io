@@ -11,17 +11,19 @@
     span.s1 {font-kerning: none}
   </style>
 </head>
-<body>
-<p class="p1"><span class="s1">{% if jekyll.environment == "production" and site.url == "https://hy-li.com" %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;!-- Google tag (gtag.js) – placed in footer --&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;script async src="https://www.googletagmanager.com/gtag/js?id=G-PEPPGK5BN6"&gt;&lt;/script&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;script&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>window.dataLayer = window.dataLayer || [];</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>function gtag(){dataLayer.push(arguments);}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>gtag('js', new Date());</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>gtag('config', 'G-PEPPGK5BN6', { 'anonymize_ip': true });</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/script&gt;</span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PEPPGK5BN6"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){ dataLayer.push(arguments); }
+
+  gtag('js', new Date());
+
+  gtag('config', 'G-PEPPGK5BN6');  
+
+</script>
 <p class="p1"><span class="s1">Site last updated {{ "now" | date: '%Y-%m-%d' }}</span></p>
 </body>
 </html>
