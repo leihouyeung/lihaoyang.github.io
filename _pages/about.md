@@ -9,9 +9,24 @@ redirect_from:
 
 Hi! I'm an incoming assistant professor in [Department of Artificial Intelligence](https://en-soe.westlake.edu.cn/OurSchool/departmentcenter/departmentAI/) at Westlake University. I'm currently a postdoctoral researcher at [Stanford University](https://www.stanford.edu/), working with. [Prof. Ruijiang Li](https://profiles.stanford.edu/ruijiang-li). I got my Ph.D. at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) in 2025 under the supervision of [Prof. Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao). I got my M.S. and B.S. at [Jilin University](https://jilinuniversity.cn/) in 2021 and 2018 respectively, supervised by [Prof. Ying Xu](https://www.sustech.edu.cn/en/faculties/yingxu.html).
 
-My research focuses on developing AI-driven methods to integrate multimodal biomedical data, spanning spatial omics, histopathology, and single-cell genomics, with the goal of decoding spatial heterogeneity in diseases and advancing diagnosis, prognosis, and biomarker discovery for personalized therapies.
+<span style="color:red">I am actively looking for highly motivated PhD students, research assistants, visiting students, and postdocs. For more informations, please see [here](./openings). </span>
 
+# Research Directions
 
+---
+
+Over the past decade, life sciences have undergone two major leaps in resolution. First, single-cell sequencing has enabled us to dissect complex tissues into cellular and molecular components. Then, spatial omics and high-throughput imaging brought these molecules back to their native context, allowing us, for the first time, to observe the interactions between genes, proteins, and microenvironments directly on tissue maps.
+
+Meanwhile, artificial intelligence has evolved from image recognition to multi-modal foundation models, learning to represent images, sequences, texts, and temporal data within a unified semantic space. The convergence of these two revolutions has made a long-standing dream feasible: not only can we now “see” individual cells clearly, but we can also construct a true cell-level digital twin of the human body, making biological systems computable, predictable, and actionable, and empowering precision medicine in unprecedented ways.
+
+My lab focuses on the intersection of AI and spatial biology, aiming to integrate and model multi-modal (spatial omics, biomedical imaging, text, clinical), multi-dimensional (temporal and 3D), and multi-scale (molecular, cellular, tissue, organ) data. Our ultimate goals are to:
+
+1. Explore comprehensive and precise biological landscapes at the human level;
+2. Investigate disease heterogeneity and mechanisms across tissues and conditions;
+3. Build AI-driven digital twins to simulate biological functions and disease progression;
+4. Advance precision medicine by enabling personalized diagnosis and treatment.
+
+<br>
 
 # Work Experience
 
