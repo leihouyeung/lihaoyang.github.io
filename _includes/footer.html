@@ -11,14 +11,19 @@
     span.s1 {font-kerning: none}
   </style>
 </head>
-<body>
-<p class="p1"><span class="s1">&lt;script async src="https://www.googletagmanager.com/gtag/js?id=G-PEPPGK5BN6"&gt;&lt;/script&gt;</span></p>
-<p class="p1"><span class="s1">&lt;script&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>window.dataLayer = window.dataLayer || [];</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>function gtag(){ dataLayer.push(arguments); }</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>gtag('js', new Date());</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>gtag('config', 'G-PEPPGK5BN6'); <span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">&lt;/script&gt;</span></p>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PEPPGK5BN6"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){ dataLayer.push(arguments); }
+
+  gtag('js', new Date());
+
+  gtag('config', 'G-PEPPGK5BN6');  
+
+</script>
 <p class="p1"><span class="s1">Site last updated {{ "now" | date: '%Y-%m-%d' }}</span></p>
 </body>
 </html>
