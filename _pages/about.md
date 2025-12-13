@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an incoming assistant professor in [Department of Artificial Intelligence](https://en-soe.westlake.edu.cn/OurSchool/departmentcenter/departmentAI/) at Westlake University. I'm currently a postdoctoral researcher at [Stanford University](https://www.stanford.edu/), working with. [Prof. Ruijiang Li](https://profiles.stanford.edu/ruijiang-li). I got my Ph.D. at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) in 2025 under the supervision of [Prof. Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao). I got my M.S. and B.S. at [Jilin University](https://jilinuniversity.cn/) in 2021 and 2018 respectively, supervised by [Prof. Ying Xu](https://www.sustech.edu.cn/en/faculties/yingxu.html).
+Hi! I'm an incoming assistant professor in [Department of Artificial Intelligence](https://www.westlake.edu.cn/faculty/haoyang-li.html) at [Westlake University](https://westlake.edu.cn/). I'm currently a postdoctoral researcher at [Stanford University](https://www.stanford.edu/), working with. [Prof. Ruijiang Li](https://profiles.stanford.edu/ruijiang-li). I got my Ph.D. at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) in 2025 under the supervision of [Prof. Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao). I got my M.S. and B.S. at [Jilin University](https://jilinuniversity.cn/) in 2021 and 2018 respectively, supervised by [Prof. Ying Xu](https://www.sustech.edu.cn/en/faculties/yingxu.html).
 
 <span style="color:red">I am actively looking for highly motivated PhD students, research assistants, visiting students, and postdocs. For more informations, please see [here](./openings). </span>
 
