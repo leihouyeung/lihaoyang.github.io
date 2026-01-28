@@ -11,7 +11,7 @@ Hi! I'm an incoming assistant professor in [Department of Artificial Intelligenc
 
 <span style="color:red">I am actively looking for highly motivated PhD students, research assistants, visiting students, and postdocs. For more informations, please see [here](./openings). </span>
 
-李昊阳，国家优秀青年基金（海外）获得者，现为斯坦福大学医学院博士后，合作导师为李瑞江教授。他将于2026年秋季加入西湖大学人工智能系担任助理教授、博士生导师。李昊阳于2025年在阿卜杜拉国王科技大学（KAUST）计算机系获得博士学位，导师为高欣教授，研究方向为开发AI驱动的多模态生物医学数据整合方法，涵盖空间多组学、组织病理学和单细胞基因组学，旨在解码疾病的空间异质性，推动个性化治疗的诊断、预后和生物标志物发现。现已在Nature Machine Intelligence、Nature Communications、Science Advances、Bioinformatics、IEEE TMI和MICCAI等顶级期刊和会议上发表20余篇论文，其中8篇为第一作者，包括多篇Nature Communications（2023, 2024, 2025）、Bioinformatics（2022）和MICCAI（2020）等。其中一篇Nature Communications一作论文被编辑选为Editor’s Highlight，并入选“生物技术和方法”领域50篇最佳论文。此外，他曾为耶鲁大学和斯坦福大学的访问学者。他还担任包括沙特内政部、沙特阿美石油公司等多所机构的数据分析课程助教和客座讲师，并为Nature Biomedical Engineering、Nature Communications、Bioinformatics、ICML、NeurIPS、ICLR等顶级期刊和会议评审了40余篇稿件，并担任多个期刊的编委和客座编辑。
+李昊阳，现为斯坦福大学医学院博士后，合作导师为李瑞江教授。他将于2026年秋季加入西湖大学人工智能系担任助理教授、博士生导师。李昊阳于2025年在阿卜杜拉国王科技大学（KAUST）计算机系获得博士学位，导师为高欣教授，研究方向为开发AI驱动的多模态生物医学数据整合方法，涵盖空间多组学、组织病理学和单细胞基因组学，旨在解码疾病的空间异质性，推动个性化治疗的诊断、预后和生物标志物发现。现已在Nature Machine Intelligence、Nature Communications、Science Advances、Bioinformatics、IEEE TMI和MICCAI等顶级期刊和会议上发表20余篇论文，其中8篇为第一作者，包括多篇Nature Communications（2023, 2024, 2025）、Bioinformatics（2022）和MICCAI（2020）等。其中一篇Nature Communications一作论文被编辑选为Editor’s Highlight，并入选“生物技术和方法”领域50篇最佳论文。此外，他曾为耶鲁大学和斯坦福大学的访问学者。他还担任包括沙特内政部、沙特阿美石油公司等多所机构的数据分析课程助教和客座讲师，并为Nature Biomedical Engineering、Nature Communications、Bioinformatics、ICML、NeurIPS、ICLR等顶级期刊和会议评审了40余篇稿件，并担任多个期刊的编委和客座编辑。
 
 # Research Directions
 
