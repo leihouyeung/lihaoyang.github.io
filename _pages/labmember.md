@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "lab member"
+title: "Lab Member"
 permalink: /labmember/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I'm pretty honored to work with these talent student and researchers.
+**I'm honored to work with these talented students and researchers.**
 
 Jiahe Qian (PhD student, from Institute of Computing Technology, CAS, 2026.08~)
 
