@@ -28,7 +28,7 @@ Yi Xie (Visiting student, from Peking Union Medical College, 2026.06~)
 
 Haoxiu Wang (Visiting student, from Southwest University, 2026.06~)
 
-
+Ruijie Ma (Administrative assistant, from Xidian University, 2026.01~)
 
 
 
