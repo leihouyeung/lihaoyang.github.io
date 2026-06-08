@@ -10,6 +10,8 @@ redirect_from:
 
 
 - **Bridging AI and Spatial Biology to Navigate Biological Landscapes**  
+  CGC消化道肿瘤少见靶点交流会，浙江大学, 2026<br>
+- **Bridging AI and Spatial Biology to Navigate Biological Landscapes**  
   腾云智生系统生物学系列讲座第五十期, 中国生物信息学学会, 2025<br>
 - **Bridging AI and Spatial Biology to Navigate Biological Landscapes**  
   Talk, GIBH, Chinese Academy of Sciences, Guangzhou, 2025<br>

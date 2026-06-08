@@ -12,7 +12,7 @@ We warmly welcome outstanding candidates to join our team, including postdoctora
 
 ### Ph.D. Students
 
-We plan to admit 2–3 Ph.D. students for Fall 2026 entry.
+We plan to admit 2–3 Ph.D. students for Fall 2027 entry.
 
 - Bachelor-to-Ph.D.: Publications are not required, but you should have completed at least one end-to-end research project and be able to clearly articulate your role and contributions. English proficiency: CET-6 > 480; TOEFL > 90; IELTS > 6.0.
 - Master-to-Ph.D.: Track records at top venues in AI or computational biology are preferred; arXiv or “under review” manuscripts are also acceptable. Please **highlight 1–2 representative works**; I will focus on the quality and your research taste.
@@ -26,15 +26,15 @@ For your information,  please see the [Call for Applications](https://engineerin
 
 ### Visiting Students
 
-Designed for undergraduates and master’s students intending to apply for a Ph.D. in our lab. Prior research closely aligned with our topics is preferred. The visit should be **at least three months**, during which you will conduct a focused short-term project (e.g., graduation project) or contribute to an ongoing project.
+Designed for undergraduates and master’s students intending to apply for a Ph.D. in our lab. Prior research closely aligned with our topics is preferred. The visit should be **at least six months**, during which you will conduct a focused short-term project (e.g., graduation project) or contribute to an ongoing project.
 
 ### Research Assistants
 
-Intended for students in a gap year or those who have secured a Ph.D. offer but have not yet enrolled. The visit should be at least **six months**. The role is research-oriented: you may independently complete a project or collaborate with the team on active research.
+Intended for students in a gap year or those who have secured a Ph.D. offer but have not yet enrolled. The visit should be at least **one year**. The role is research-oriented: you may independently complete a project or collaborate with the team on active research.
 
 ### Postdoctoral Fellows
 
-Candidates should be able to drive high-level research independently, with at least 1–2 publications at top AI or computational biology venues. Interdisciplinary experience is highly valued, especially combining methods from different domains to tackle real-world problems. **Please highlight 1–2 representative works.**
+Candidates should be able to drive high-level research independently, with at least 2 publications at top AI or computational biology venues. Interdisciplinary experience is highly valued, especially combining methods from different domains to tackle real-world problems. **Please highlight representative works.**
 
 ### Resources and Mentoring
 

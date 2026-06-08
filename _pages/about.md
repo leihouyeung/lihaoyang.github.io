@@ -44,7 +44,7 @@ My lab focuses on the intersection of AI and spatial biology, aiming to integrat
 
 ---
 
-- **Associate Editor**<br>Frontiers in Public Health
+- **Associate Editor**<br>Frontiers in Public Health，BMC Bioinformatics
 - **Editorial Board Member**<br>Molecular & Cellular Bioinformatics, World Jounral of Radiology
 - **Guest Editor**<br>Biomedical Informatics (Special issue: spatial transcriptomics)
 - **Reviewer**<br>Nature Biomedical Engineering, Nature Communications, Bioinformatics, ICLR (2025, 2024), ICML (2024, 2025 (AI4Science workshop)), NeurIPS (2023, 2024), AAAI (2022), UAI (2022), ICONIP (2022), SIGKDD (2022), MICCAI (2025, 2021)
