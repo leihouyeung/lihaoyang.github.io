@@ -16,11 +16,17 @@ Siheng Wang (PhD student,  Jiangsu University, 2026.08~)
 
 Yanqing Shi (PhD student,  Hongkong University, 2026.08~)
 
+Hao Qin (Research assistant, Macau University, 2026.08~)
+
 Bai Sun (Visiting student,  Sun Yat-sen University, 2026.04~)
 
 JIngming Xiao (Visiting student,  Harbin Institute of Technology, 2026.04~)
 
 Jingkun Yu (Visitin student,  SWJTU-Leeds, 2026.04~)
+
+Kaipeng Chen (Visiting student, Zhejiang University, 2026.06~)
+
+Yufan Zhang (Visiting student, Zhejiang University, 2026.06~)
 
 Olivia Zhang (Visiting student,  New York University, 2026.06~)
 
