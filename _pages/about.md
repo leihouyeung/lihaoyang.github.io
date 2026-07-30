@@ -59,14 +59,8 @@ My lab focuses on the intersection of AI and spatial biology, aiming to integrat
 
 ---
 
-- **Teacher (CST1002 Introduction to Computer Science and Programming)** <br>
-
-  Westlake University
-
+- **Teacher (CST1002 Introduction to Computer Science and Programming)** <br>Westlake University
 - **Guest lecturer (CS220 Data Analytics)** <br>Saudi Aramco
-
 - **Teaching assistant (CS220 Data Analytics)** <br>Ministry of Interior, Saudi Arabia<br>KAUST
-
 - **Teaching assistant (Bioinformatics)**<br>CCF DragonStar, Jilin University
-
 - **Teaching assistant (Computational Biology)** <br>Jilin University
