@@ -11,22 +11,23 @@ Hi! I'm an assistant professor in [Department of Artificial Intelligence](https:
 
 <span style="color:red">I am actively looking for highly motivated PhD students, research assistants, visiting students, and postdocs. For more informations, please see [here](./openings). </span>
 
-李昊阳，西湖大学人工智能系特聘研究员、助理教授、博士生导师，国家级青年人才。曾为斯坦福大学医学院博士后，合作导师为李瑞江教授。李昊阳于2025年在阿卜杜拉国王科技大学（KAUST）计算机系获得博士学位，导师为高欣教授。研究方向为开发AI驱动的多模态生物医学数据整合方法，涵盖空间多组学、组织病理学和单细胞基因组学，旨在解码疾病的空间异质性，推动个性化治疗的诊断、预后和生物标志物发现。现已在Nature Machine Intelligence、Nature Communications、Science Advances、iMeta、IEEE TMI和MICCAI等顶级期刊和会议上发表20余篇论文，其中一篇Nature Communications一作论文被编辑选为Editor’s Highlight，并入选“生物技术和方法”领域50篇最佳论文。此外，他曾为耶鲁大学和斯坦福大学的访问学者。他还担任包括沙特内政部、沙特阿美石油公司等多所机构的数据分析课程助教和客座讲师，并为Nature Biomedical Engineering、Nature Communications、Bioinformatics、ICML、NeurIPS、ICLR等顶级期刊和会议评审了40余篇稿件，并担任多个期刊的编委和客座编辑。
+李昊阳，西湖大学工学院人工智能系特聘研究员、助理教授、博士生导师，国家级青年人才。曾为斯坦福大学医学院博士后，合作导师为李瑞江教授。他于2025年在阿卜杜拉国王科技大学（KAUST）计算机系获得博士学位，导师为高欣教授，他致力于构建 AI虚拟器官，聚焦多模态、三维、物理与时序的空间生物学，旨在突破观测性研究的固有局限，实现疾病演化预测与个体化干预决策。现已在Nature Machine Intelligence、Nature Communications、Science Advances、IEEE TMI、和MICCAI等顶级期刊和会议上发表20余篇论文，其中 9篇为第一作者，包括多篇Nature Communications（2023, 2024, 2025）等。其中一篇Nature Communications一作论文被编辑选为Editor's Highlight，并入选"生物技术和方法"领域50篇最佳论文。此外，他曾为耶鲁大学和斯坦福大学的访问学者。他还担任包括沙特内政部、沙特阿美石油公司等多所机构的数据分析课程助教和客座讲师，并担任Nature Biomedical Engineering、Nature Communications、Bioinformatics、ICML、NeurIPS、ICLR等顶级期刊和会议审稿人，也担任 BMC Bioinformatics和 Frontiers in Public Health 等多个期刊的编委和客座编辑。
 
 # Research Directions
 
 ---
 
-Over the past decade, life sciences have undergone two major leaps in resolution. First, single-cell sequencing has enabled us to dissect complex tissues into cellular and molecular components. Then, spatial omics and high-throughput imaging brought these molecules back to their native context, allowing us, for the first time, to observe the interactions between genes, proteins, and microenvironments directly on tissue maps.
+Dr. Li's research is organized around AI Virtual Organ (AIVO): a generative computational counterpart of a real patient's organ, on which the questions that cannot be asked of the patient are asked in silico. It grows along a strictly hierarchical capability axis, from descriptive (what is the organ now) to predictive (what happens next, and under perturbation) to prescriptive (what should we do). His group advances this vision along five parallel fronts: 
 
-Meanwhile, artificial intelligence has evolved from image recognition to multi-modal foundation models, learning to represent images, sequences, texts, and temporal data within a unified semantic space. The convergence of these two revolutions has made a long-standing dream feasible: not only can we now “see” individual cells clearly, but we can also construct a true cell-level digital twin of the human body, making biological systems computable, predictable, and actionable, and empowering precision medicine in unprecedented ways.
+(1) Multimodal Spatial Biology. Aligning and translating across H&E, spatial omics, medical imaging, and clinical text, so that expensive or physically unmeasurable modalities can be inferred from the cheapest and most ubiquitous projection of tissue. 
 
-My lab focuses on the intersection of AI and spatial biology, aiming to integrate and model multi-modal (spatial omics, biomedical imaging, text, clinical), multi-dimensional (temporal and 3D), and multi-scale (molecular, cellular, tissue, organ) data. Our ultimate goals are to:
+(2) 3D Spatial Biology. Reconstructing whole-organ three-dimensional volumes from two-dimensional sections, and modeling the emergence from molecule to cell to niche to tissue. 
 
-1. Explore comprehensive and precise biological landscapes at the human level;
-2. Investigate disease heterogeneity and mechanisms across tissues and conditions;
-3. Build AI-driven digital twins to simulate biological functions and disease progression;
-4. Advance precision medicine by enabling personalized diagnosis and treatment.
+(3) Physical Spatial Biology. Encoding mechanics, conservation laws, and transport as priors, so that the virtual organ is not merely visually plausible but physically self-consistent. 
+
+(4) Temporal Spatial Biology. Turning destructive snapshots into continuous trajectories, and predicting how tissue evolves under time, injury, and perturbation. 
+
+(5) Downstream applications. Precision oncology, in silico drug screening, tissue aging, and regenerative medicine, each turning something previously unmeasurable or untestable into something computable. 
 
 <br>
 
