@@ -11,7 +11,7 @@ Hi! I'm an assistant professor in [Department of Artificial Intelligence](https:
 
 <span style="color:red">I am actively looking for highly motivated PhD students, research assistants, visiting students, and postdocs. For more informations, please see [here](./openings). </span>
 
-李昊阳，西湖大学工学院人工智能系特聘研究员、助理教授、博士生导师，国家级青年人才。曾为斯坦福大学医学院博士后，合作导师为李瑞江教授。他于2025年在阿卜杜拉国王科技大学（KAUST）计算机系获得博士学位，导师为高欣教授，他致力于构建 AI虚拟器官，聚焦多模态、三维、物理与时序的空间生物学，旨在突破观测性研究的固有局限，实现疾病演化预测与个体化干预决策。现已在Nature Machine Intelligence、Nature Communications、Science Advances、IEEE TMI、和MICCAI等顶级期刊和会议上发表20余篇论文，其中 9篇为第一作者，包括多篇Nature Communications（2023, 2024, 2025）等。其中一篇Nature Communications一作论文被编辑选为Editor's Highlight，并入选"生物技术和方法"领域50篇最佳论文。此外，他曾为耶鲁大学和斯坦福大学的访问学者。他还担任包括沙特内政部、沙特阿美石油公司等多所机构的数据分析课程助教和客座讲师，并担任Nature Biomedical Engineering、Nature Communications、Bioinformatics、ICML、NeurIPS、ICLR等顶级期刊和会议审稿人，也担任 BMC Bioinformatics和 Frontiers in Public Health 等多个期刊的编委和客座编辑。
+李昊阳，西湖大学工学院人工智能系特聘研究员、助理教授、博士生导师，国家级青年人才。曾为斯坦福大学医学院博士后，合作导师为李瑞江教授。他于2025年在阿卜杜拉国王科技大学（KAUST）计算机系获得博士学位，导师为高欣教授；于 2021 年和 2018 年分别在吉林大学获得硕士和学士学位，导师为徐鹰教授。他致力于构建 AI虚拟器官，聚焦多模态、三维、物理与时序的空间生物学，旨在突破观测性研究的固有局限，实现疾病演化预测与个体化干预决策。现已在Nature Machine Intelligence、Nature Communications (23',24',25')、Science Advances、IEEE TMI、和MICCAI等顶级期刊和会议上发表20余篇论文。其中一篇Nature Communications一作论文被编辑选为Editor's Highlight，并入选"生物技术和方法"领域50篇最佳论文。此外，他曾为耶鲁大学和斯坦福大学的访问学者。他还担任包括沙特内政部、沙特阿美石油公司等多所机构的数据分析课程助教和客座讲师，并担任Nature Biomedical Engineering、Nature Communications、Bioinformatics、ICML、NeurIPS、ICLR等顶级期刊和会议审稿人，也担任 BMC Bioinformatics和 Frontiers in Public Health 等多个期刊的编委和客座编辑。
 
 # Research Directions
 
