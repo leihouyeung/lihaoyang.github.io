@@ -23,6 +23,8 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 ## Publications
 
+- **Spatial omics in the AI era: Technologies, algorithmic ecosystems, biological applications, and large model perspectives.** <br>Haoxiu Wang, Xinwang Yang, Siheng Wang, ... **Haoyang Li+,** Jun Ding, Zhiyuan Yuan, Haojing Shao.<br>*iMeta*, 2026
+
 - **Large Language Models in Biomedicine and Healthcare.** <br>J Zhou, **H Li**, S Chen, Z Chen, Z Han, X Gao.<br>*npj Artificial Intelligence*, 2025
 
 - **AggNet: Advancing Protein Aggregation Analysis Through Deep Learning and Protein Language Model.**<br>W He, X Xu, **H Li**, J Zhou, X Gao. <br>*Protein Science*, 2024.

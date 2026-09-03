@@ -16,6 +16,8 @@ Siheng Wang (PhD student,  Jiangsu University, 2026.08~)
 
 Yanqing Shi (PhD student,  Hongkong University, 2026.08~)
 
+Yibo Peng (Visiting student, Fudan University, 2026.09~)
+
 Hao Qin (Visiting student, Macau University, 2026.08~)
 
 Bai Sun (Visiting student,  Sun Yat-sen University, 2026.04~)

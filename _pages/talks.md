@@ -9,6 +9,10 @@ redirect_from:
 
 
 
+- **Bridging Multimodal** **AI and Spatial Biology to** **Empower** **Spatial Oncology**  
+  2026 医院合作与发展羊城国际论坛，广东省医院协会, 2026<br>
+- **Bridging Multimodal** **AI and Spatial Biology to** **Empower** **Spatial Oncology**  
+  AI4S 生命科学专题, 复旦大学&上海科学智能研究院，2026<br>
 - **Bridging AI and Spatial Biology to Navigate Biological Landscapes**  
   CGC消化道肿瘤少见靶点交流会，浙江大学, 2026<br>
 - **Bridging AI and Spatial Biology to Navigate Biological Landscapes**  
