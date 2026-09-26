@@ -16,12 +16,15 @@ You can also find my full publication list on my [Google Scholar profile](https:
   **H Li**, Y Lin, W He, W Han, X Xu, C Xu, E Gao, H Zhao, X Gao. *Nature Communications*, 2024.
 - **A comprehensive benchmarking with practical guidelines for cellular deconvolution of spatial transcriptomics.**  
   **H Li**, J Zhou, Z Li, S Chen, X Liao, B Zhang, R Zhang, Y Wang, S Sun, X Gao. *Nature Communications*, 2023.  <br><span style="color:red">Selected as Editors’ Highlight and “50 best papers in Biotechnology and Methods”</span>
+- **Single-cell resolution with pan-cancer generalization in morpho-molecular foundation modeling from histopathology with PAST** <br>C Yang+, **H Li**+, Y Wu, Y Zhang, ..., X Guo, X Gao, Y Qi.<br>*Cell Systems*, 2026
 - **SD2: Spatially resolved transcriptomics deconvolution through integration of spatial and dropout information.**  
   **H Li**, H Li, J Zhou, X Gao. *Bioinformatics*, 2022.
-- **Automatic and interpretable model for periodontitis diagnosis in panoramic radiographs.**  
-  **H Li**, J Zhou, Y Zhou, J Chen, F Gao, Y Xu, X Gao. *MICCAI*, 2020.  
 
 ## Publications
+
+- **Align as You Couple: Learning Spatial Resolved Inference from H&E Images with Mollified Flow Matching** <br>R Zhang, G Dong, S Wang, Z Yao, J Dong, **H Li***.<br>NeurIPS, 2026
+
+- **Single-cell resolution with pan-cancer generalization in morpho-molecular foundation modeling from histopathology with PAST** <br>C Yang+, **H Li+**, Y Wu, Y Zhang, ..., X Guo, X Gao, Y Qi.<br>*Cell Systems*, 2026
 
 - **Spatial omics in the AI era: Technologies, algorithmic ecosystems, biological applications, and large model perspectives.** <br>Haoxiu Wang, Xinwang Yang, Siheng Wang, ... **Haoyang Li+,** Jun Ding, Zhiyuan Yuan, Haojing Shao.<br>*iMeta*, 2026
 
