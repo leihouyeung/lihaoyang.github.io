@@ -10,6 +10,8 @@ redirect_from:
 
 
 - **Bridging Multimodal** **AI and Spatial Biology to** **Empower** **Spatial Oncology**  
+  第九届多组学研究与应用前沿论坛暨多组学整合与系统生物学前沿大会，生物谷, 2026<br>
+- **Bridging Multimodal** **AI and Spatial Biology to** **Empower** **Spatial Oncology**  
   2026 医院合作与发展羊城国际论坛，广东省医院协会, 2026<br>
 - **Bridging Multimodal** **AI and Spatial Biology to** **Empower** **Spatial Oncology**  
   AI4S 生命科学专题, 复旦大学&上海科学智能研究院，2026<br>
